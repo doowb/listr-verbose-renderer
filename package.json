@@ -28,7 +28,7 @@
     "format"
   ],
   "dependencies": {
-    "chalk": "^1.1.3",
+    "ansi-colors": "^3.0.0",
     "cli-cursor": "^2.1.0",
     "date-fns": "^1.27.2",
     "figures": "^1.7.0"
